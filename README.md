@@ -13,4 +13,9 @@ Comcast is an American global telecommunication company. The firm has been provi
 5. Provide state wise status of complaints in a stacked bar chart.
 6. Which state has the highest percentage of unresolved complaints.
 7. Provide the percentage of complaints resolved till date, which were received through the Internet and customer care calls.
+# Technologies Used
+![alt text](https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png)
+![alt text](https://miro.medium.com/max/481/1*cxfqR8NAj8HGal8CVOZ7hg.png)
+![alt text](https://matplotlib.org/_static/logo2_compressed.svg)
+![alt text](https://miro.medium.com/max/1200/1*PPIp7twJJUknfohZqtL8pQ.png)
 
